@@ -1,0 +1,23 @@
+[
+    {
+        "title" : "Game boy",
+        "details" : "The Game Boy is an 8-bit fourth generation handheld game console developed and manufactured by Nintendo...",
+        "image_url" :"https://pbs.twimg.com/media/FFRhdKUaMAAMu8j?format=jpg&name=large",
+        "detail" : "The Game Boy is an 8-bit fourth generation handheld game console developed and manufactured by Nintendo./n It was first released in Japan on April 21, 1989, in North America later the same year,/n and in Europe in late 1990. It was designed by the same team that developed the Game & Watch series of handheld electronic games /n and several Nintendo Entertainment System (NES) games: Satoru Okada, /n Gunpei Yokoi, and Nintendo Research & Development 1."
+    },
+    {
+        "title" : "DS game",
+        "details" : "The Nintendo DS is a handheld game console produced by Nintendo, released globally across 2004 and 2005...",
+        "image_url" :"https://i.kym-cdn.com/photos/images/newsfeed/001/964/676/324",
+        "detail" : "The Nintendo DS is a handheld game console produced by Nintendo, released globally across 2004 and 2005. /n The DS, an initialism for Developers' System or Dual Screen, introduced distinctive new features to handheld /n games: two LCD screens working in tandem (the bottom one being a touchscreen), a built-in microphone and support for wireless connectivity./n Both screens are encompassed within a clamshell design similar to the Game Boy Advance SP. /n The Nintendo DS also features the ability for multiple DS consoles to directly interact with each other over Wi-Fi within /n a short range without the need to connect to an existing wireless network. Alternatively, they could interact online using /n the now-defunct Nintendo Wi-Fi Connection service. Its main competitor was Sony's PlayStation /n Portable during the seventh generation of video game consoles."
+    },
+    {
+        "title" : "Nintendo Switch",
+        "details" : "The Nintendo Switch is a hybrid video game console developed by Nintendo...",
+        "image_url" :"https://pbs.twimg.com/media/FFRhdKTaMAErgrk?format=jpg&name=large",
+        "detail" : "The Nintendo Switch is a hybrid video game console developed by Nintendo and released worldwide in most regions on March 3, 2017. The console itself is a tablet that can either be /n docked for use as a home console or used as a portable device, /n making it a hybrid console. Its wireless Joy-Con controllers, with standard buttons and /n directional analog sticks for user input, motion sensing, and tactile feedback, /n can attach to both sides of the console to support handheld-style play. /n They can also connect to a grip accessory to provide a traditional home console gamepad form, /n or be used individually in the hand like the Wii Remote and Nunchuk, supporting local multiplayer modes."
+    }
+    
+ 
+   
+]
